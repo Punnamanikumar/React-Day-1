@@ -22,9 +22,9 @@ class ReactFeatures extends Component {
         </pre>
 
         <br />
-        <img src={img1} />
-        <img src={img2} />
-        <img src={img3} />
+        <img src={img1} alt="" />
+        <img src={img2} alt="" />
+        <img src={img3} alt="" />
       </div>
     );
   }
